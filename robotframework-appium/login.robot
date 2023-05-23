@@ -2,7 +2,6 @@
 Documentation  Simple example using AppiumFlutterLibrary
 
 Library  AppiumFlutterLibrary  run_on_failure=No Operation
-# Library  AppiumLibrary  run_on_failure=No Operation
 Library  DebugLibrary
 
 
