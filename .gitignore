@@ -1,0 +1,7 @@
+node_modules/
+apps/app-avenue.apk
+wdio-appium-js/node_modules
+robotframework-appium/venv
+robotframework-appium/*.xml
+robotframework-appium/*.html
+.history/
